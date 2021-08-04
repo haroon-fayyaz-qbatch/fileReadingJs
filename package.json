@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/haroon-fayyaz-qbatch/fileReadingJs/issues"
   },
-  "homepage": "https://github.com/haroon-fayyaz-qbatch/fileReadingJs#readme"
+  "homepage": "https://github.com/haroon-fayyaz-qbatch/fileReadingJs#readme",
+  "dependencies": {
+    "xml2js": "^0.4.23"
+  }
 }
